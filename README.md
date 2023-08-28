@@ -1,12 +1,18 @@
 # Smart-irrigation-System
-Components Required for the Automatic Irrigation System
-The project requires very few components and the connection is also very simple. The components are listed below:
 
+Components Required for the Automatic Irrigation System:
+
+The project requires very few components and the connection is also very simple. The components are listed below:
 Arduino * 1
+
 moisture sensor * 1
+
 5v relay module * 1
+
 6v Mini water pump with small pipe * 1
+
 Connecting wires
+
 5v battery * 1
 
  The Arduino UNO is the brain of this whole project. It controls the motor pump according to the moisture in the soil which is given by the moisture sensor.
